@@ -1,0 +1,12 @@
+Four Imp aspects of any language are 
+1. the way it stores data, 
+2. the way it operates upon this data, 
+3. how it accomplishes the input and output 
+4. how it lets you control the sequence of execution of instructions in program
+
+
+
+What is C? 
+-> C is a programming language developed at AT & T's Bell Labs of USA in 1972
+Designed and written by a man named Dennis Ritchie
+In late 70s C began to replace more familiar languages of that time like Pl/I, ALGOL, etc 
